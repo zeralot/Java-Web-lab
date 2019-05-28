@@ -1,0 +1,41 @@
+.currday{ background-color: green;
+color: white;
+width : 80px;
+height: 80px;
+text-align: center;
+font-size: large;
+}
+.sunday{ background-color: red;
+color: white;
+width : 80px;
+height: 80px;
+text-align: center;
+font-size: large;
+}
+.normal{ background-color: blue;
+color: white;
+width : 80px;
+height: 80px;
+text-align: center;
+font-size: large;
+}
+.empty{ background-color: silver;
+color: white;
+width : 80px;
+height: 80px;
+text-align: center;
+font-size: large;   
+}
+.button{
+border: none;
+background-color: white;
+font-size: larger;
+text-align: center !important;
+}
+/*body { text-align: center;}*/
+td{
+    text-align: center !important;
+}
+
+th{background-color: silver;
+height: 30px;}

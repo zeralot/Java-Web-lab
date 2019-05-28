@@ -1,0 +1,168 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 9, 2016, 1:08:52 PM
+    Author     : Students
+*/
+
+body {
+    font-family: sans-serif;
+}
+
+.preheader {
+    background-image: url(Pictures/preheader.jpg);
+    width: 886px;
+    height: 71px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(Pictures/header.jpg);
+    color: #ffffff;
+    width: 886px;
+    height: 78px;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-top: -22px;
+}
+
+.header h3 {
+    padding-left: 80px;
+    padding-top: 5px;
+}
+
+.menu {
+    background-image: url(Pictures/menu.jpg);
+    color: #ffffff;
+    width: 886px;
+    height: 32px;
+    margin: 0 auto;
+}
+
+.menu p {
+    padding-left: 80px;
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+.container {
+    background-image: url(Pictures/bg.jpg);
+    width: 886px;
+    margin: 0 auto;
+    height: auto;
+    position: absolute;
+    left: 250px;
+    margin-top: -10px;
+}
+
+.content {
+    width: 760px;
+    margin: 0 auto;
+    height: auto;
+}
+
+.main {
+    width: 485px;
+    float: left;
+    padding: 20px;
+    border-right: dotted 2px;
+    border-color: #e0e0e0;
+}
+
+.main a {
+    text-decoration: none;
+    color: #42554e;
+    font-weight: bold;
+}
+
+.right {
+    width: 230px;
+    background-color: #ffcccc;
+    height: 100%;
+    float: right;
+}
+
+.title {
+    font-size: 18px;
+    color: #42554e;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.signature {
+    float: right;
+    color: #42554e;
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.newest {
+    width: 100%;
+    background-color: #ffffff;
+    height: auto;
+    font-size: 13px;
+}
+
+.newest span {
+    color: #42554e;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.titleNews {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.contentNews {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.image img {
+    width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.text {
+    font-size: 13px;
+}
+
+.searchBox {
+    border: dotted 2px;
+    padding-top: -10px;
+    margin-left: 10px;
+}
+
+.searchButton {
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    color: #999999;
+} 
+
+.lastArticles {
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.lastArticles a {
+    color: #42554e
+}
+
+.footer {
+    background-image: url(Pictures/footer.jpg);
+    width: 886px;
+    height: 71px;
+    clear: both;
+    float: top;
+    margin-left: -63px;
+}
+

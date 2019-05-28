@@ -1,0 +1,21 @@
+SMAP
+gallery_jsp.java
+JSP
+*S JSP
+*F
++ 0 gallery.jsp
+gallery.jsp
++ 1 header.jsp
+./common/header.jsp
++ 2 sbleft.jsp
+./common/sbleft.jsp
++ 3 footer.jsp
+./common/footer.jsp
+*L
+5,4:51
+5#1,55:54
+8#0,82:108
+5#2,31:190
+89#0,5:221
+5#3,20:225
+*E

@@ -1,0 +1,79 @@
+.menu{margin-top:8%; margin-bottom: 0%; background-color: inherit; border: 0px; width: 15%; height: 100px; color:white;}
+.menu hover{background-color:lightgray;}
+.active {background-color:lightgray; color: #000; border-radius: 10px 10px 0px 0px; font-size: inherit;} 
+.bg1 {
+    background-image: url(../pic/bg_top.jpg); background-position-y: 80%; background-repeat: no-repeat; background-size: cover; 
+}
+.logoheader{
+    margin-top:0%; margin-left: 4%; width:13%;
+}
+.textheader{
+    margin-left: 17%; margin-top: -3%; width: 67%;
+}
+.buttonheader{
+    margin-left: 89%; width: 20%; margin-top: -12%;
+}
+.bghome{
+    background-image: url(../pic/bg_top_img.jpg); background-repeat: no-repeat; background-size: cover
+}
+.btnflight{
+    border-color: lightgray; border-width: 1px; background-color: inherit; width:80px; height: 30px; border-radius: 5px 5px 0px 0px; margin-top: 5%
+}
+.btnfli{
+    margin-top: 0%; margin-left: 5%
+}
+.fli{
+    margin-left: 5%; border: lightgray solid 1px; width: 28%
+}
+.fli1{
+    margin-top:8%; margin-left: 15%; margin-bottom: 8%
+}
+.tblfli{
+    margin-top:2%; line-height: 25px
+}
+.fli2{
+    margin-top:3%; margin-left: 22%; margin-bottom: 50px
+}
+.btnfli2{
+    background-color: deepskyblue; width: 100px; height: 25px; border-radius: 7px
+}
+.booking1{
+    margin-left: 150px; margin-right: 150px; margin-top: 50px; margin-bottom: 70px
+}
+.booking2{
+    margin-left: 20px; margin-top: -5px
+}
+.booking3{
+    margin-top:10px; margin-bottom: 10px
+}
+.booking4{
+    background-color: black; 
+}
+.booking5{
+    background-color: deepskyblue; border-radius: 5px; width: 80px; height: 30px
+}
+.login1{
+    margin-top: 40px; line-height: 30px; margin-top: 0px; margin-bottom: 0px;
+}
+.login2{
+    background-color: deepskyblue; border-radius: 5px
+}
+.mbr1{
+    margin-left: 10%; margin-right: 10%; line-height: 30px;  margin-top:20px;
+}
+.mbs1{
+    background-color: deepskyblue; width: 100px; height: 25px; border-radius: 7px
+}
+.reg1{
+    background-color: deepskyblue; border-radius: 5px; width:90px; height:28px; margin-top: 100px; margin-bottom: 50px;
+}
+.hed{
+    margin-top:30px;
+}
+.index1{
+    margin-top: 20px; 
+}
+.hr1{margin-top: 40px; margin-bottom: 40px;}
+.index2{
+    margin-bottom: 20px;
+}

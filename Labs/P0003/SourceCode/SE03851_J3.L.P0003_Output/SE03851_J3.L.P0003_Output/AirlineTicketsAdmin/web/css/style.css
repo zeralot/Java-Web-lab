@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 19, 2016, 1:15:49 PM
+    Author     : Students
+*/
+body{
+    background: #3f3f3f;
+}
+.col-center{
+    margin-top: 100px;
+}
+.col-background-login{
+    padding: 25px;
+    border-radius: 3%;
+}
+.col-background-login fieldset{
+    background: #fff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.col-background-login fieldset legend{
+    background: #846217;
+    border-top-left-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    border-top-right-radius: 5px;
+}

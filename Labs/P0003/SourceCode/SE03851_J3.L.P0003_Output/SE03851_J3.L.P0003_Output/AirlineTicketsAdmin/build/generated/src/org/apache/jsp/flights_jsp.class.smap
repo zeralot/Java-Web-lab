@@ -1,0 +1,32 @@
+SMAP
+flights_jsp.java
+JSP
+*S JSP
+*F
++ 0 flights.jsp
+flights.jsp
++ 1 header.jsp
+./common/header.jsp
++ 2 navbar.jsp
+./common/navbar.jsp
++ 3 footer.jsp
+./common/footer.jsp
+*L
+5,4:54
+5#1,17:57
+22,5:75
+26,28:80
+8#0,6:108
+13,4:114
+5#2,11:118
+16#0,34:129
+50,3:164
+52,2:167
+54,6:169,3
+60:187
+61:188,3
+62,4:191
+66,2:196
+67,11:198
+5#3,7:208
+*E

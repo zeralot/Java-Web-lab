@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 26, 2016, 1:18:46 PM
+    Author     : Students
+*/
+
+    .login
+            {
+                height:260px;
+                width:400px;
+                margin: 200px auto;
+                background-color: #fff;
+              
+                
+            }
+            .hr
+            {
+                width:100px;
+                height:20px;
+                margin-top: 50px;
+            }
+                .td1
+            {
+                padding-left: 11px;
+                 padding-right: 40px;
+                 border-radius: 3px 3px 3px 3px;
+               
+            }
+           .space
+           {
+               margin-top: 50px;
+           }
+           h1
+           {
+               text-shadow:0 1px 0 rgba(255,255,255,.7),0px 2px 0 rgba(0,0,0,.5);
+               text-transform: uppercase;
+               text-align: center;
+               color:#666;
+               margin:0 0 30px 0;
+               letter-spacing: 4px;
+               font: normal 26px/1 Verdana, Helvetica;
+               position: relative;
+               /*padding-top: 20px;*/
+        
+           }
+           h1:after {
+               background-color: #777;
+               content:"";
+               height:1px;
+               position: absolute;
+               top:15px;
+               width: 80px;
+               margin-right:57px;
+           }
+           h1:before
+           {
+                background-color: #777;
+               content:"";
+               height:1px;
+               position: absolute;
+               top:15px;
+               width: 80px;
+             margin-left:-87px;
+           }
+           h1:after{
+               right:0;
+           }
+           h2:before
+           {
+               left:0
+           }
+           .ip1
+           {
+               padding:15px 15px 15px 30px;
+               width: 300px;
+               border: 1px solid #ccc;
+               border-radius: 5px;
+             
+               margin-bottom:  10px;
+               margin-left:25px;
+               
+           }
+           .title
+           {
+               padding-top: 15px;
+           }
+           .submit
+           {
+               background-color: #ffb94b;
+               border-width: 1px;
+               border-style: solid;
+               text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+               border-radius: 5px;
+               color:#8f5a0a;
+               font: bold 15px Arial,Helvetica;
+               height:35px;
+               width:120px;
+               margin-top: 15px;
+               margin-left: 23px;
+           }
+           .link
+           {
+               font-size:10px;
+               margin-left: 80px;
+              font-family: Arial;
+           }
+           .link1
+           {
+               font-size:10px;
+              font-family: Arial;
+              
+           }
+        
